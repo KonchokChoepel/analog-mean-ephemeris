@@ -3,7 +3,8 @@ message: "If you use this work, please cite it."
 title: "Analog Mean Ephemeris: 36 hand-usable calendars of regular-pace planetary cycles"
 type: software
 authors:
-  - name: "YOUR NAME"
+  - family-names: "Choepel"
+    given-names: "Konchok"
 license: MIT
 date-released: 2026-11-10
-repository-code: "https://github.com/YOUR-USER/analog-mean-ephemeris"
+repository-code: "https://github.com/KonchokChoepel/analog-mean-ephemeris"

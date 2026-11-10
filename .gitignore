@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+R.pkl
+now36.pkl
+output/
+pdf/
+.DS_Store
