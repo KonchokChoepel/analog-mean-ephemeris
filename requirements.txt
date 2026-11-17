@@ -1,4 +1,5 @@
 numpy
-scipy
 reportlab
-# fonts: DejaVu Sans (set DEJAVU_DIR if not in /usr/share/fonts/truetype/dejavu/)
+pyswisseph
+pillow
+pypdf

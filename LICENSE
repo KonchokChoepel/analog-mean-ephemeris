@@ -1,24 +1,19 @@
-MIT License (code in src/)
+The 36 Calendar Analog Ephemeris (Analog Mean Ephemeris)
+Copyright (c) 2026 Aidan John Walsh
 
-Copyright (c) 2026 YOUR NAME
+This work is licensed in two parts.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Content: the calendars, tables, PDFs, data (including calendars.csv)
+   and all text are licensed under the Creative Commons
+   Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).
+   Full text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Code: every source file (*.py) is licensed under the GNU General
+   Public License, version 3 (GPL-3.0).
+   Full text: https://www.gnu.org/licenses/gpl-3.0.txt
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-The PDFs in pdf/, the data in data/ and the text in docs/ and README.md are
-licensed CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+In plain words: you may use, copy, print, sell and modify this work,
+commercially too, provided that you credit Aidan John Walsh and the
+Analog Mean Ephemeris, say what you changed, and release your changes,
+and anything built on this work, under the same licence. No part of it,
+original or added, may be made or held proprietary.
