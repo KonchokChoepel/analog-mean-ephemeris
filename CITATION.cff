@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "The 36 Calendar Analog Ephemeris: thirty-six hand-usable calendars of the mean planetary cycles"
+type: software
+authors:
+  - family-names: "Walsh"
+    given-names: "Aidan John"
+license: CC-BY-SA-4.0
+date-released: 2026-11-17
+repository-code: "https://github.com/KonchokChoepel/analog-mean-ephemeris"

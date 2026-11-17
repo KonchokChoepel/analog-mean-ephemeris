@@ -1,0 +1,19 @@
+The 36 Calendar Analog Ephemeris (Analog Mean Ephemeris)
+Copyright (c) 2026 Aidan John Walsh
+
+This work is licensed in two parts.
+
+1. Content: the calendars, tables, PDFs, data (including calendars.csv)
+   and all text are licensed under the Creative Commons
+   Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).
+   Full text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+2. Code: every source file (*.py) is licensed under the GNU General
+   Public License, version 3 (GPL-3.0).
+   Full text: https://www.gnu.org/licenses/gpl-3.0.txt
+
+In plain words: you may use, copy, print, sell and modify this work,
+commercially too, provided that you credit Aidan John Walsh and the
+Analog Mean Ephemeris, say what you changed, and release your changes,
+and anything built on this work, under the same licence. No part of it,
+original or added, may be made or held proprietary.
